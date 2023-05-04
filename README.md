@@ -1,7 +1,5 @@
 # Modern OS reference
 
-* [The Next-Generation OS Process Abstraction](documents/the_next_generation_os_process_abstraction.pdf)
-
 ## Barrelfish-related papers
 
 ### Documentation
@@ -77,8 +75,14 @@ UW Technical Report UW-CSE-13-10-01. Version 2.0. May 2014.
 [Arrakis: The Operating System is the Control Plane](documents/arrakis/arrakis_the_operating_system_is_the_control_plane_2013_old.pdf)<br>
 UW Technical Report UW-CSE-13-10-01. Version 1.0. October 2013.
 
+
 ## Other papers
 
 * Yauhen I Klimiankou.<br>
 [Towards practical multikernel OSes with MySyS](documents/towards_practical_multikernel_oses_with_mysys.pdf)<br>
 APSys '22: Proceedings of the 13th ACM SIGOPS Asia-Pacific Workshop on SystemsAugust 2022
+* [The Next-Generation OS Process Abstraction](documents/the_next_generation_os_process_abstraction.pdf)
+
+## Security
+
+* [MidnightsunQuals 2021 BroHammer Writeup (Single Bit Flip to Kernel Privilege Escalation)](https://www.willsroot.io/2021/04/midnightsunquals-2021-brohammer-single.html)
