@@ -31,6 +31,14 @@
 25. [Sockeye](./documents/barrelfish/documentation/TN-025-Sockeye.pdf)
 26. [Device Queues](./documents/barrelfish/documentation/TN-026-Device-Queues.pdf)
 
+### Publications
+
+TODO
+
+### Thesis, reports, etc
+
+TODO
+
 ## Arrakis-related papers
 
 * Antoine Kaufmann, Simon Peter, Naveen Kr. Sharma, Thomas Anderson, Arvind Krishnamurthy.</br>
